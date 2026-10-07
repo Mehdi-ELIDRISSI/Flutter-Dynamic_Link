@@ -1,4 +1,4 @@
-# Lien_Dynamique
+# Dynamic_Link
 Set-up of the Firebase Dynamic Link, for the society Go'Place
 
 This project was my first IT internship, and required me to learn the mobile developpement language "Flutter", and publishing a project on Firebase
